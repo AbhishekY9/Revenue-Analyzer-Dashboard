@@ -30,5 +30,5 @@ This project focuses on developing a real-time revenue monitoring dashboard for 
   * Creating comprehensive dashboards that facilitate data-driven decision-making
 ## Screenshots
 
-<img src="https://github.com/AbhishekY9/Retail-Insights-Generator/blob/main/fig/Screenshot_1.png" alt="App Screenshot" width="650">
+<img src="https://github.com/AbhishekY9/Revenue-Monitoring-Dashboard/blob/main/fig/Revenue%20Monitoring%20Dashboard_page-0001.jpg" alt="App Screenshot" width="650">
 
